@@ -1,3 +1,4 @@
-# Writeup Web challenge Jailoo warmup from fword CTF 2020
+# Writeup Fword CTF 2020
 
+### Web challenge Jailoo warmup 
 [Jailoo warmup](./Jailoo%20warmup.md)
