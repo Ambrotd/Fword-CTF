@@ -1,4 +1,3 @@
-JAILOO WARMUP
 
 # Writeup JAILOO from fword ctf
 
